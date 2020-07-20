@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <WolrdMap msg="Welcome to Your Vue.js App"/>
+    <WolrdMap/>
   </div>
 </template>
 
